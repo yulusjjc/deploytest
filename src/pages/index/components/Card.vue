@@ -1,0 +1,20 @@
+<template>
+  <el-card class='box-card'>
+    <div class='text item'>
+    	<!-- <div class="head"></div>
+    	<div class="body"></div>
+    	<div class="foot"></div> -->
+    </div>
+	</el-card>
+</template>
+
+<script>
+export default {
+  name: 'Card'
+}
+</script>
+
+<style lang="stylus" scoped>
+  // @import '~styles/varibles.styl'
+  // @import "~styles/mixins.styl"
+</style>
