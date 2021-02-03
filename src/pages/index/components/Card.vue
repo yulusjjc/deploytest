@@ -1,7 +1,6 @@
 <template>
   <el-card class='box-card'>
-    <div class='text item'>
-    </div>
+    <div class='text item'>123</div>
 	</el-card>
 </template>
 
