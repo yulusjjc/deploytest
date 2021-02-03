@@ -1,9 +1,6 @@
 <template>
   <el-card class='box-card'>
     <div class='text item'>
-    	<!-- <div class="head"></div>
-    	<div class="body"></div>
-    	<div class="foot"></div> -->
     </div>
 	</el-card>
 </template>
